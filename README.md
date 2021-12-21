@@ -63,12 +63,11 @@ Site [httpie](https://httpie.io/)
 
 ### Spring Tool Suite
 
-- Faça download da versão no site <https://spring.io/tools>;
+1. Faça download da versão no site <https://spring.io/tools>, conforme exemplo abaixo:
 
 <img src="/assets/Sts_download.png" width="720" height="400">
 
-
-- Após, clique com o botão direito do mouse sobre o arquivo 
+1. Após, clique com o botão direito do mouse sobre o arquivo baixado  
 
 
 Instalação via terminal ubuntu:
