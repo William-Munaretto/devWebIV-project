@@ -17,33 +17,45 @@ Abaixo segue a lista das ferramentas que serão utilizadas ao longo do curso par
 
 ### Spring Tool Suite
 
-O Spring Tool Suite é uma IDE baseada em Eclipse que dá algumas facilidades para trabalhos com o Spring. (Exemplo: Spring Boot).
+<div style="text-align: justify">O Spring Tool Suite é uma IDE baseada em Eclipse que dá algumas facilidades para trabalhos com o Spring. (Exemplo: Spring Boot).</div>
+
+Site: [STS](https://spring.io/tools)
 
 ### Java
 
-<div style="text-align: right">Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 pela Sun Microsystems e adquirida posteriormente, em 2008, pela Oracle Corporation. Diferente das linguagens de programação compiladas para código nativo, Java é compilada para um bytecode que é interpretado por uma máquina virtual (Java Virtual Machine - JVM).</div>
+<div style="text-align: justify">Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 pela Sun Microsystems e adquirida posteriormente, em 2008, pela Oracle Corporation. Diferente das linguagens de programação compiladas para código nativo, Java é compilada para um bytecode que é interpretado por uma máquina virtual (Java Virtual Machine - JVM).</div>
+
+Site: [Java](https://www.java.com/pt-BR/)
 
 ### MySql
 
-O MySQL é um sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL (Linguagem de Consulta Estruturada, do inglês Structured Query Language) como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation.
+<div style="text-align: justify">O MySQL é um sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL (Linguagem de Consulta Estruturada, do inglês Structured Query Language) como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation.</div>
+
+Site: [MySql](https://www.mysql.com/)
 
 ### Git
 
-Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+<div style="text-align: justify">Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.</div>
+
+Site: [Git](https://git-scm.com/)
 
 ### Node.js
 
-Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
+<div style="text-align: justify">Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.</div>
+
+Site: [Node.js](https://nodejs.org/en/)
 
 ### Postman
 
-O Postman é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Isso é feito, permitindo aos usuários criar e salvar solicitações HTTP e HTTPs simples e complexas, bem como ler suas respostas.
+<div style="text-align: justify">O Postman é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Isso é feito, permitindo aos usuários criar e salvar solicitações HTTP e HTTPs simples e complexas, bem como ler suas respostas.</div>
+
+Site: [Postman](https://www.postman.com/)
 
 ### Httpie
 
-HTTPie é um cliente HTTP de linha de comando com uma interface de usuário intuitiva, suporte a JSON, destaque de sintaxe, downloads semelhantes a wget, plug-ins etc. Seu objetivo é tornar a interação da CLI com os serviços da Web o mais amigável possível. Ele fornece um comando http simples que permite o envio de solicitações HTTP arbitrárias usando uma sintaxe simples e natural e exibe saída colorida. O HTTPie pode ser usado para teste, depuração e interação geral com servidores HTTP.
+<div style="text-align: justify">HTTPie é um cliente HTTP de linha de comando com uma interface de usuário intuitiva, suporte a JSON, destaque de sintaxe, downloads semelhantes a wget, plug-ins etc. Seu objetivo é tornar a interação da CLI com os serviços da Web o mais amigável possível. Ele fornece um comando http simples que permite o envio de solicitações HTTP arbitrárias usando uma sintaxe simples e natural e exibe saída colorida. O HTTPie pode ser usado para teste, depuração e interação geral com servidores HTTP.</div>
 
-Acesse: [httpie](https://httpie.io/)
+Site [httpie](https://httpie.io/)
 
 ---
 
