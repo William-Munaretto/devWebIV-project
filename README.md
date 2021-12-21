@@ -17,7 +17,7 @@ Abaixo segue a lista das ferramentas que serão utilizadas ao longo do curso par
 
 ### Spring Tool Suite
 
-<div style="text-align: justify">O Spring Tool Suite é uma IDE baseada em Eclipse que dá algumas facilidades para trabalhos com o Spring. (Exemplo: Spring Boot).</div>
+<div style="text-align: justify"><p>O Spring Tool Suite é uma IDE baseada em Eclipse que dá algumas facilidades para trabalhos com o Spring. (Exemplo: Spring Boot).</p></div>
 
 Site: [STS](https://spring.io/tools)
 
