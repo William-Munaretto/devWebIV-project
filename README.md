@@ -65,7 +65,7 @@ Site [httpie](https://httpie.io/)
 
 - Faça download da versão no site <https://spring.io/tools>;
 
-<img src="../assets/Sts_download.png" width="400" height="400">
+<img src="/assets/Sts_download.png" width="720" height="400">
 
 
 - Após, clique com o botão direito do mouse sobre o arquivo 
