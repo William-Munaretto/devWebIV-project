@@ -29,13 +29,13 @@ Site: [Java](https://www.java.com/pt-BR/)
 
 ### MySql
 
-O MySQL é um sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL (Linguagem de Consulta Estruturada, do inglês Structured Query Language) como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation.
+O MySQL é um sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL (Linguagem de Consulta Estruturada, do inglês Structured Query Language) como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation.</div>
 
 Site: [MySql](https://www.mysql.com/)
 
 ### Git
 
-Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+<div style="text-align: justify">Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
 
 Site: [Git](https://git-scm.com/)
 
@@ -58,6 +58,21 @@ HTTPie é um cliente HTTP de linha de comando com uma interface de usuário intu
 Site [httpie](https://httpie.io/)
 
 ---
+
+## Instalação das ferramentas (procedimentos):
+
+### Spring Tool Suite
+
+- Faça download da versão no site <https://spring.io/tools>;
+
+<img src="../assets/Sts_download.png" width="400" height="400">
+
+
+- Após, clique com o botão direito do mouse sobre o arquivo 
+
+
+Instalação via terminal ubuntu:
+
 
 _**Formatação do texto:**_
 
