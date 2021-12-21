@@ -43,7 +43,7 @@ O Postman é um API Client que facilita aos desenvolvedores criar, compartilhar,
 
 HTTPie é um cliente HTTP de linha de comando com uma interface de usuário intuitiva, suporte a JSON, destaque de sintaxe, downloads semelhantes a wget, plug-ins etc. Seu objetivo é tornar a interação da CLI com os serviços da Web o mais amigável possível. Ele fornece um comando http simples que permite o envio de solicitações HTTP arbitrárias usando uma sintaxe simples e natural e exibe saída colorida. O HTTPie pode ser usado para teste, depuração e interação geral com servidores HTTP.
 
-[httpie](https://httpie.io/)
+Acesse: [httpie](https://httpie.io/)
 
 ---
 
