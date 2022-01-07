@@ -63,14 +63,18 @@ Site [httpie](https://httpie.io/)
 
 ### Spring Tool Suite
 
-1. Faça download da versão no site <https://spring.io/tools>, conforme exemplo abaixo:
+- Faça download da versão no site <https://spring.io/tools>;
 
-<img src="/assets/Sts_download.png" width="720" height="400">
-
-1. Após, clique com o botão direito do mouse sobre o arquivo baixado  
+<img src="../assets/Sts_download.png" width="400" height="400">
 
 
 Instalação via terminal ubuntu:
+
+- Após, clique com o botão direito do mouse sobre a pasta que contem o arquivo e selecione **"Abrir Terminal"**;
+
+descompactar o arquivo:
+```sudo tar sxvf spring-tool-suite-4-4.13.0.RELEASE-e4.22.0-linux.gtk.x86_64.tar.g
+``` 
 
 
 _**Formatação do texto:**_
