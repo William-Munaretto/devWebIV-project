@@ -63,7 +63,7 @@ Site [httpie](https://httpie.io/)
 
 ### Spring Tool Suite
 
-- Faça download da versão no site <https://spring.io/tools>;
+- Faça download da versão atualizada no site <https://spring.io/tools>;
 
 <img src="../assets/Sts_download.png" width="400" height="400">
 
@@ -86,7 +86,27 @@ executar o programa:
 sudo ./SpringToolSuite4
 ```
 
+### Java
 
+Instalação via terminal ubuntu:
+
+- Digite **Ctrl + Alt + T** para abrir o terminal;
+- Após, digite o seguinte comando para iniciar a instalação:
+```
+sudo apt-get install openjdk-11-jdk
+```
+Obs.: pode ser instalada a distribuição OpenJDK que preferir.
+
+
+### Git
+
+Instalação via terminal ubuntu:
+
+- Digite **Ctrl + Alt + T** para abrir o terminal;
+- Após, digite o seguinte comando para iniciar a instalação:
+```
+sudo apt install git
+```
 
 
 _**Formatação do texto:**_
