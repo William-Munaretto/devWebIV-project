@@ -112,7 +112,7 @@ Site: [Node.js](https://nodejs.org/en/)
 
 - faça download da versão atualizada no site <https://nodejs.org/en/>
 
-<img src="../assets/node.png" width="400" height="400">
+<img src="assets/node.png" width="400" height="400">
 
 - Após, clique com o botão direito do mouse sobre a pasta que contem o arquivo e selecione **"Abrir Terminal"**;
 
