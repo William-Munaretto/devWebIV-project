@@ -13,7 +13,8 @@ Abaixo segue a lista das ferramentas que serão utilizadas ao longo do curso par
 - Postman
 - Httpie
 
-## Definição de cada ferramenta
+## Definição e procedimentos de instalação de cada tecnologia/ferramenta:
+
 
 ### Spring Tool Suite
 
@@ -21,54 +22,12 @@ O Spring Tool Suite é uma IDE baseada em Eclipse que dá algumas facilidades pa
 
 Site: [STS](https://spring.io/tools)
 
-### Java
 
-Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 pela Sun Microsystems e adquirida posteriormente, em 2008, pela Oracle Corporation. Diferente das linguagens de programação compiladas para código nativo, Java é compilada para um bytecode que é interpretado por uma máquina virtual (Java Virtual Machine - JVM).
-
-Site: [Java](https://www.java.com/pt-BR/)
-
-### MySql
-
-O MySQL é um sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL (Linguagem de Consulta Estruturada, do inglês Structured Query Language) como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation.</div>
-
-Site: [MySql](https://www.mysql.com/)
-
-### Git
-
-<div style="text-align: justify">Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
-
-Site: [Git](https://git-scm.com/)
-
-### Node.js
-
-Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
-
-Site: [Node.js](https://nodejs.org/en/)
-
-### Postman
-
-O Postman é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Isso é feito, permitindo aos usuários criar e salvar solicitações HTTP e HTTPs simples e complexas, bem como ler suas respostas.
-
-Site: [Postman](https://www.postman.com/)
-
-### Httpie
-
-HTTPie é um cliente HTTP de linha de comando com uma interface de usuário intuitiva, suporte a JSON, destaque de sintaxe, downloads semelhantes a wget, plug-ins etc. Seu objetivo é tornar a interação da CLI com os serviços da Web o mais amigável possível. Ele fornece um comando http simples que permite o envio de solicitações HTTP arbitrárias usando uma sintaxe simples e natural e exibe saída colorida. O HTTPie pode ser usado para teste, depuração e interação geral com servidores HTTP.
-
-Site [httpie](https://httpie.io/)
-
----
-
-## Instalação das ferramentas (procedimentos):
-
-### Spring Tool Suite
+**Instalação via terminal ubuntu:**
 
 - Faça download da versão atualizada no site <https://spring.io/tools>;
 
 <img src="../assets/Sts_download.png" width="400" height="400">
-
-
-Instalação via terminal ubuntu:
 
 - Após, clique com o botão direito do mouse sobre a pasta que contem o arquivo e selecione **"Abrir Terminal"**;
 
@@ -86,27 +45,99 @@ executar o programa:
 sudo ./SpringToolSuite4
 ```
 
+---
 ### Java
 
-Instalação via terminal ubuntu:
+Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 pela Sun Microsystems e adquirida posteriormente, em 2008, pela Oracle Corporation. Diferente das linguagens de programação compiladas para código nativo, Java é compilada para um bytecode que é interpretado por uma máquina virtual (Java Virtual Machine - JVM).
+
+Site: [Java](https://www.java.com/pt-BR/)
+
+**Instalação via terminal ubuntu:**
 
 - Digite **Ctrl + Alt + T** para abrir o terminal;
 - Após, digite o seguinte comando para iniciar a instalação:
 ```
 sudo apt-get install openjdk-11-jdk
 ```
-Obs.: pode ser instalada a distribuição OpenJDK que preferir.
 
+---
+### MySql
 
+O MySQL é um sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL (Linguagem de Consulta Estruturada, do inglês Structured Query Language) como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation.</div>
+
+Site: [MySql](https://www.mysql.com/)
+
+---
 ### Git
 
-Instalação via terminal ubuntu:
+<div style="text-align: justify">Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+
+Site: [Git](https://git-scm.com/)
+
+**Instalação via terminal ubuntu:**
 
 - Digite **Ctrl + Alt + T** para abrir o terminal;
 - Após, digite o seguinte comando para iniciar a instalação:
 ```
 sudo apt install git
 ```
+
+---
+### Node.js
+
+Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
+
+Site: [Node.js](https://nodejs.org/en/)
+
+**Instalação via terminal ubuntu:**
+
+- faça download da versão atualizada no site <https://nodejs.org/en/>
+
+<img src="../assets/node.png" width="400" height="400">
+
+- Após, clique com o botão direito do mouse sobre a pasta que contem o arquivo e selecione **"Abrir Terminal"**;
+
+Descompactar o arquivo:
+```
+sudo tar sxvf node-v16.13.1-linux-x64.tar.xz  
+``` 
+Acessar a pasta **node-v16.13.1-linux-x64**:
+```
+cd node-v16.13.1-linux-x64/
+```
+aAessar a pasta /bin, onde está o executável do node.js:
+```
+cd bin/
+```
+Executar o programa:
+```
+sudo ./node
+```
+
+---
+### Postman
+
+O Postman é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. Isso é feito, permitindo aos usuários criar e salvar solicitações HTTP e HTTPs simples e complexas, bem como ler suas respostas.
+
+Site: [Postman](https://www.postman.com/)
+
+**Instalação via terminal ubuntu:**
+
+
+---
+### Httpie
+
+HTTPie é um cliente HTTP de linha de comando com uma interface de usuário intuitiva, suporte a JSON, destaque de sintaxe, downloads semelhantes a wget, plug-ins etc. Seu objetivo é tornar a interação da CLI com os serviços da Web o mais amigável possível. Ele fornece um comando http simples que permite o envio de solicitações HTTP arbitrárias usando uma sintaxe simples e natural e exibe saída colorida. O HTTPie pode ser usado para teste, depuração e interação geral com servidores HTTP.
+
+Site [httpie](https://httpie.io/)
+
+**Instalação via terminal ubuntu:**
+
+
+---
+
+
+
 
 
 _**Formatação do texto:**_
