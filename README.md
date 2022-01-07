@@ -27,7 +27,7 @@ Site: [STS](https://spring.io/tools)
 
 - Faça download da versão atualizada no site <https://spring.io/tools>;
 
-<img src="../assets/Sts_download.png" width="400" height="400">
+<img src="assets/Sts_download.png" width="400" height="400">
 
 - Após, clique com o botão direito do mouse sobre a pasta que contem o arquivo e selecione **"Abrir Terminal"**;
 
