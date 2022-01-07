@@ -23,7 +23,7 @@ O Spring Tool Suite é uma IDE baseada em Eclipse que dá algumas facilidades pa
 Site: [STS](https://spring.io/tools)
 
 
-**Instalação via terminal ubuntu:**
+**Instalação via terminal Ubuntu 20.04.3 LTS:**
 
 - Faça download da versão atualizada no site <https://spring.io/tools>;
 
@@ -45,6 +45,8 @@ executar o programa:
 sudo ./SpringToolSuite4
 ```
 
+**Versão Instalada:** sts-4.13.0.RELEASE.
+
 ---
 ### Java
 
@@ -52,13 +54,18 @@ Java é uma linguagem de programação orientada a objetos desenvolvida na déca
 
 Site: [Java](https://www.java.com/pt-BR/)
 
-**Instalação via terminal ubuntu:**
+**Instalação via terminal Ubuntu 20.04.3 LTS:**
 
 - Digite **Ctrl + Alt + T** para abrir o terminal;
 - Após, digite o seguinte comando para iniciar a instalação:
 ```
 sudo apt-get install openjdk-11-jdk
 ```
+
+**Versão Instalada:**
+- openjdk 11.0.13 2021-10-19;
+- OpenJDK Runtime Environment (build 11.0.13+8-Ubuntu-0ubuntu1.20.04);
+- OpenJDK 64-Bit Server VM (build 11.0.13+8-Ubuntu-0ubuntu1.20.04, mixed mode, sharing).
 
 ---
 ### MySql
@@ -67,6 +74,16 @@ O MySQL é um sistema de gerenciamento de banco de dados (SGBD), que utiliza a l
 
 Site: [MySql](https://www.mysql.com/)
 
+**Instalação via terminal Ubuntu 20.04.3 LTS:**
+
+- Digite **Ctrl + Alt + T** para abrir o terminal;
+- Após, digite o seguinte comando para iniciar a instalação:
+```
+sudo apt install mysql-server
+```
+
+**Versão instalada:** mysql  Ver 8.0.27-0ubuntu0.20.04.1 for Linux on x86_64 ((Ubuntu)).
+
 ---
 ### Git
 
@@ -74,13 +91,15 @@ Site: [MySql](https://www.mysql.com/)
 
 Site: [Git](https://git-scm.com/)
 
-**Instalação via terminal ubuntu:**
+**Instalação via terminal Ubuntu 20.04.3 LTS:**
 
 - Digite **Ctrl + Alt + T** para abrir o terminal;
 - Após, digite o seguinte comando para iniciar a instalação:
 ```
 sudo apt install git
 ```
+
+**Versão instalada:** git version 2.25.1.
 
 ---
 ### Node.js
@@ -89,7 +108,7 @@ Node.js é um software de código aberto, multiplataforma, baseado no interpreta
 
 Site: [Node.js](https://nodejs.org/en/)
 
-**Instalação via terminal ubuntu:**
+**Instalação via terminal Ubuntu 20.04.3 LTS:**
 
 - faça download da versão atualizada no site <https://nodejs.org/en/>
 
@@ -114,6 +133,8 @@ Executar o programa:
 sudo ./node
 ```
 
+**Versão instalada:** v10.19.0
+
 ---
 ### Postman
 
@@ -121,8 +142,15 @@ O Postman é um API Client que facilita aos desenvolvedores criar, compartilhar,
 
 Site: [Postman](https://www.postman.com/)
 
-**Instalação via terminal ubuntu:**
+**Instalação via terminal Ubuntu 20.04.3 LTS:**
 
+- Digite **Ctrl + Alt + T** para abrir o terminal;
+- Após, digite o seguinte comando para iniciar a instalação:
+```
+sudo snap install postman
+```
+
+**Versão instalada:** Version 9.8.2
 
 ---
 ### Httpie
@@ -131,124 +159,14 @@ HTTPie é um cliente HTTP de linha de comando com uma interface de usuário intu
 
 Site [httpie](https://httpie.io/)
 
-**Instalação via terminal ubuntu:**
+**Instalação via terminal Ubuntu 20.04.3 LTS:**
 
+- Digite **Ctrl + Alt + T** para abrir o terminal;
+- Após, digite o seguinte comando para iniciar a instalação:
+```
+sudo snap install httpie
+```
+
+**Versão instalada:** httpie 2.6.0
 
 ---
-
-
-
-
-
-_**Formatação do texto:**_
-
-Texto *itálico* | Texto **negrito** | ~~Riscado~~
-
-Uma lista:
-- item 1
-- item 2
-- item 3
-
-Lista numerada:
-1. item A
-1. item B
-1. item C
-
-
-### Criando um link:
-
-sintaxe: `[rotulo](url)`
-
-[link github](https://github.com)
-
----
-
-Linha __horizontal__
-
----
-
-
-### Código fonte (h3)
-Sintaxe para código fonte.
-
-Bloco de código genérico:
-```
-sudo apt-get install mcedit
-```
-
-Código fonte:
-```js
-function abc(){
-  // javascript
-  return "xyz";
-}
-```
-
-```py
-def main():
-  # python
-  pass
-```
-
-```java
-class FileRequest implements JpaRepository {
-  // some Java comment
-}
-```
-
----
-
-#### Imagens
-
-Via url:
-
-![floppy text](https://github.com/fscheidt/dev/raw/master/assets/floppy.png)
-
-```md
-![floppy text](https://github.com/fscheidt/dev/raw/master/assets/floppy.png)
-```
-
-Com tag `<img>` e setando width
-
-<img src="../assets/pie-icon.png" width="32">
-
-```html
-<img src="../assets/pie-icon.png" width="32">
-```
-
----
-
-#### Todo-list (h4)
-Roteiro de implementação
-- [ ] **Setup spring-boot project**
-    - [X] configure spring-boot starters
-    - [ ] configure [app.properties](https://github.com/fscheidt/dev/raw/master/assets/properties.txt) for H2, Thymeleaf and JPA settings.
-    - [X] Create the model classes: Filme, Pessoa, Category(enum)
-    - [ ] Create a `@Service` class `DataLoaderHelper` so we don't need to re-create the database every time during development time.
-    - [ ] add some emoticons: ⛁ 📦 🗺️ 🧑 🎬 🟩
-
-***
-
-### Tabelas
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-***
-
-### Citação
-
-Usar `>` para iniciar um `blockquote`:
-
-> This is a very long line that will still be quoted properly when it wraps.
-
-<br><br>
-
-<div id='final'>
-<b>Mais sintaxe</b>: <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown-Cheatsheet</a>
-</div>
