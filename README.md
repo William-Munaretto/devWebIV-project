@@ -67,13 +67,14 @@ Site [httpie](https://httpie.io/)
 
 <img src="../assets/Sts_download.png" width="400" height="400">
 
-
 Instalação via terminal ubuntu:
 
 - Após, clique com o botão direito do mouse sobre a pasta que contem o arquivo e selecione **"Abrir Terminal"**;
 
 descompactar o arquivo:
-```sudo tar sxvf spring-tool-suite-4-4.13.0.RELEASE-e4.22.0-linux.gtk.x86_64.tar.g
+  
+```
+sudo tar sxvf spring-tool-suite-4-4.13.0.RELEASE-e4.22.0-linux.gtk.x86_64.tar.g
 ``` 
 
 
